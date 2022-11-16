@@ -1,2 +1,4 @@
-# python
-python basic
+#python
+#pythonbasicprogram
+print("hello world")
+print("welcome to github")
